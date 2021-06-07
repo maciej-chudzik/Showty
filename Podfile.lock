@@ -1,0 +1,107 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Cloudinary (3.0.0):
+    - Cloudinary/ios (= 3.0.0)
+  - Cloudinary/ios (3.0.0)
+  - FacebookCore (0.9.0):
+    - FBSDKCoreKit (~> 5.0)
+  - FacebookLogin (0.9.0):
+    - FacebookCore (~> 0.9.0)
+    - FBSDKCoreKit (~> 5.0)
+    - FBSDKLoginKit (~> 5.0)
+  - FBSDKCoreKit (5.15.1):
+    - FBSDKCoreKit/Basics (= 5.15.1)
+    - FBSDKCoreKit/Core (= 5.15.1)
+  - FBSDKCoreKit/Basics (5.15.1)
+  - FBSDKCoreKit/Core (5.15.1):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (5.15.1):
+    - FBSDKLoginKit/Login (= 5.15.1)
+  - FBSDKLoginKit/Login (5.15.1):
+    - FBSDKCoreKit (~> 5.0)
+  - GrowingTextView (0.7.2)
+  - InputBarAccessoryView (5.3.1):
+    - InputBarAccessoryView/Core (= 5.3.1)
+  - InputBarAccessoryView/Core (5.3.1)
+  - IQKeyboardManagerSwift (6.5.6)
+  - KeychainSwift (19.0.0)
+  - MessageKit (3.6.1):
+    - InputBarAccessoryView (~> 5.3.1)
+  - PryntTrimmerView (4.0.2)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - SkeletonView (1.15.0)
+  - Socket.IO-Client-Swift (16.0.1):
+    - Starscream (~> 4.0)
+  - Starscream (4.0.4)
+  - SteviaLayout (4.7.3)
+  - YPImagePicker (4.5.0):
+    - PryntTrimmerView (~> 4.0.2)
+    - SteviaLayout (~> 4.7.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cloudinary
+  - FacebookLogin
+  - GrowingTextView
+  - IQKeyboardManagerSwift
+  - KeychainSwift
+  - MessageKit
+  - RxCocoa
+  - RxSwift
+  - SkeletonView
+  - Socket.IO-Client-Swift
+  - YPImagePicker
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cloudinary
+    - FacebookCore
+    - FacebookLogin
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - GrowingTextView
+    - InputBarAccessoryView
+    - IQKeyboardManagerSwift
+    - KeychainSwift
+    - MessageKit
+    - PryntTrimmerView
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SkeletonView
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SteviaLayout
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Cloudinary: 58718723cd5e15abae51e4ba201b5e9a347d101c
+  FacebookCore: ba86524b66cfa86d0f8e65d08faa8504a9f732dd
+  FacebookLogin: 6cee9fd6e1fe976fe8f7eec199e27b28b14f5d63
+  FBSDKCoreKit: 1d5acf7c9d7a2f92bb1a242dc60cae5b7adb91df
+  FBSDKLoginKit: f1ea8026a58b52d30c9f2e6a58ca7d813619fb83
+  GrowingTextView: 876bf42005b5e4a4fd740597db12caaf41f0fe6c
+  InputBarAccessoryView: 1f75d8c9f75e5e57f3ffac36ed58635a8005e0bc
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  MessageKit: d153fbbbcb12f3f4045a1ba8874298924dacfb62
+  PryntTrimmerView: 6a43cc90df5d99addeabd33d4ba09b1365322130
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  SkeletonView: cac18a3ac4f893b09d99e65072d806ef08377aae
+  Socket.IO-Client-Swift: c116d6dc9fd6be9c259bacfe143f8725bce7d79e
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  YPImagePicker: 6f410f475bd22fa8cd430495b54d4b2f15865c2d
+
+PODFILE CHECKSUM: 9517b5e12f9a645a4c2e4df7632749001a15fb7c
+
+COCOAPODS: 1.10.1
